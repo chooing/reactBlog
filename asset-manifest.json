@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactBlog/static/css/main.db269884.css",
-    "main.js": "/reactBlog/static/js/main.52ef4c2f.js",
+    "main.js": "/reactBlog/static/js/main.1ad735cf.js",
     "static/media/background.jpg": "/reactBlog/static/media/background.9d8ffdf2b026e3a71002.jpg",
     "static/media/profile.jpg": "/reactBlog/static/media/profile.e2608c2bb9d5a58c15ce.jpg",
     "static/media/Github.svg": "/reactBlog/static/media/Github.44eca8266047557a439218d2afc94622.svg",
@@ -22,10 +22,10 @@
     "static/media/ArrowLeft-blue.svg": "/reactBlog/static/media/ArrowLeft-blue.a8f040986b41c7713bf5.svg",
     "static/media/ArrowTop.svg": "/reactBlog/static/media/ArrowTop.31b9123f76deea3066cd.svg",
     "main.db269884.css.map": "/reactBlog/static/css/main.db269884.css.map",
-    "main.52ef4c2f.js.map": "/reactBlog/static/js/main.52ef4c2f.js.map"
+    "main.1ad735cf.js.map": "/reactBlog/static/js/main.1ad735cf.js.map"
   },
   "entrypoints": [
     "static/css/main.db269884.css",
-    "static/js/main.52ef4c2f.js"
+    "static/js/main.1ad735cf.js"
   ]
 }

@@ -1,0 +1,61 @@
+[{ 
+    "id": "Chilli",
+    "name": "Chilli", 
+    "profileUrl":"profile.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "categories":[
+        {
+            "id":"Life",
+            "link":"/"
+        },
+        {
+            "id":"Style",
+            "link":"/"
+        },
+        {
+            "id":"Tech",
+            "link":"/"
+        },
+        {
+            "id":"Sport",
+            "link":"/"
+        },
+        {
+            "id":"Photo",
+            "link":"/"
+        },
+        {
+            "id":"Develop",
+            "link":"/"
+        },
+        {
+            "id":"Music",
+            "link":"/"
+        }
+    ],
+    "snsList":[
+        {
+            "id":"Facebook",
+            "link":"/"
+        },
+        {
+            "id":"Twitter",
+            "link":"/"
+        },
+        {
+            "id":"Instagram",
+            "link":"/"
+        },
+        {
+            "id":"Github",
+            "link":"/"
+        }
+    ],
+    "blogMain":[
+        {
+            "title":"My BLOG",
+            "subTitle":"React Blog",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nostrum dolor provident beatae deserunt magnam, illo neque. Maiores ipsum commodi dolorum beatae aliquid laboriosam est"
+        }
+    ]
+}]
